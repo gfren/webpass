@@ -1,0 +1,22 @@
+ 
+# /etc/hosts
+# C:\Windows\System32\drivers\etc
+
+64.233.166.104 www.google.com
+64.233.166.104 www.google.com.hk
+64.233.166.104 clients1.google.com
+64.233.166.104 mail.google.com
+64.233.166.104 chatenabled.mail.google.com
+64.233.166.104 mail-attachment.googleusercontent.com
+64.233.166.104 id.google.com
+64.233.166.104 encrypted.google.com
+64.233.166.104 encrypted-tbn0.google.com
+64.233.166.104 encrypted-tbn1.google.com
+64.233.166.104 encrypted-tbn2.google.com
+64.233.166.104 encrypted-tbn3.google.com
+64.233.166.104 webcache.googleusercontent.com
+64.233.166.104 ssl.gstatic.com
+64.233.166.104 docs.google.com
+64.233.166.104 0.docs.google.com
+64.233.166.104 1.docs.google.com
+64.233.166.104 accounts.google.com
